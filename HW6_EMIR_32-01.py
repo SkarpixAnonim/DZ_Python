@@ -55,5 +55,4 @@ print(calculator(5, '*', 55))
 #     expressionStr = ' '.join(map(str, expression))
 #     return eval(expressionStr)
 
-
-# print(calculator())
+# print(calculator(5, '**', 2))
